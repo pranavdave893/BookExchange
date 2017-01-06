@@ -5,3 +5,5 @@ Implemented entire project with beans, DAO, Object-Factory class.</br>
 Implemented modules such as buy, sell, search, bid, and communication.
 
 ## Home Page 
+![abcd](https://cloud.githubusercontent.com/assets/17445806/21733009/31fee67a-d411-11e6-94c4-dd977aa69f3d.jpg)
+
